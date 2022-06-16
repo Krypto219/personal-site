@@ -3,7 +3,7 @@ const positions = [
     company: 'Vivify Ideas',
     position: 'Blockchain Enginner',
     link: 'ttps://www.vivifyideas.com',
-    daterange: 'June 2014 - January 2015',
+    daterange: 'June 2018 - Present',
     points: [
       'Develop smart contract by Soidity and Rust',
       'Develop backend and frontend accociate blockchain',
