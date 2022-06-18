@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
@@ -44,8 +44,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # I like
 
 - Running
-- Sport
+- Skiing
 - Sailing and the sea
+- Space
 - Summer
 - [Books](https://www.goodreads.com/mdangelo)
 - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))

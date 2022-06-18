@@ -1,13 +1,13 @@
 const routes = [
   {
     index: true,
-    label: "Dejan Kojadinovic",
+    label: 'Dejan Kojadinovic',
     path: '/',
   },
-  {
-    label: 'About',
-    path: '/about',
-  },
+  // {
+  //   label: 'About',
+  //   path: '/about',
+  // },
   {
     label: 'Resume',
     path: '/resume',
