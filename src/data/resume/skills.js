@@ -9,7 +9,7 @@ const skills = [
   },
   {
     title: 'Node.JS',
-    competency: 3,
+    competency: 5,
     category: ['Web Development'],
   },
   {
@@ -84,7 +84,7 @@ const skills = [
   },
   {
     title: 'Typescript',
-    competency: 2,
+    competency: 5,
     category: ['Web Development', 'Languages', 'Blockchain'],
   },
   {
@@ -99,12 +99,12 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 2,
+    competency: 4,
     category: ['Languages'],
   },
   {
     title: 'MATLAB',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
@@ -114,7 +114,7 @@ const skills = [
   },
   {
     title: 'GraphQL',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Databases'],
   },
   {
@@ -124,7 +124,7 @@ const skills = [
   },
   {
     title: 'Spark',
-    competency: 2,
+    competency: 1,
     category: ['Data Engineering', 'Data Science'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
