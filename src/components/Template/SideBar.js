@@ -12,14 +12,14 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
       </Link>
       <header>
-        <h2>Dejan Kojadinovic</h2>
-        <p><a href="programerd10@gmail.com">programerd10@gmail.com</a></p>
+        <h2>Daniel Gould</h2>
+        <p><a href="kryptoexpert1@gmail.com">kryptoexpert1@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <span>Hi, I&apos;m Dejan. I like building somethings.</span>
+      <span>Hi, I&apos;m Daniel. I like building somethings.</span>
       <span>
         Highly trained, motivated, and ambitious Full Stack Web & Blockchain Developer.
       </span>
@@ -38,7 +38,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Dejan Kojadinovic:<Link to="/">programerd10@gmail.com</Link>.</p>
+      <p className="copyright">&copy; Daniel Gould:<Link to="/">programerd10@gmail.com</Link>.</p>
     </section>
   </section>
 );
