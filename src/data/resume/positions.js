@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'August',
-    position: 'Blockchain Full-Stack Developer',
+    position: 'Blockchain Engineer',
     link: 'https://angel.co/company/alwaysaugust',
     daterange: 'February 2022 - July 2022',
     points: [
@@ -12,7 +12,7 @@ const positions = [
   },
   {
     company: 'PayAccept',
-    position: 'Web Enginner',
+    position: 'Blockchain Lead DEveloper',
     link: 'https://payaccept.net',
     daterange: 'February 2020- December 2021',
     points: [
@@ -24,7 +24,7 @@ const positions = [
   },
   {
     company: 'Innowise Group',
-    position: 'Blockchain Enginner || Full-Stack Developer',
+    position: 'Blockchain Developer | Full-Stack Engineer',
     link: 'https://innowise-group.com',
     daterange: 'January 2018 - October 2019',
     points: [
